@@ -32,8 +32,8 @@ export class Resume{
     }
 
     downloadResume(format){
-        if(format === "" || format === "pdf") this.downloadFile("curriculoJulia.pdf");
-        else if(format === "doc") this.downloadFile("curriculoJulia.docx");
+        if(format === "" || format === "pdf") this.downloadFile("CV Gabriel Camillo Ignacio .pdf");
+        else if(format === "doc") this.downloadFile("CV Gabriel Camillo Ignacio.docx");
         else{
             let errMsg = `resume: '${format}' is not a valid format.<br>type 'resume --help' for help.`;
             new UniversalFunction().updateElement("div", "error", errMsg);
