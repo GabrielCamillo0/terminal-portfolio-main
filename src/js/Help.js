@@ -10,7 +10,7 @@ const commands = [
     { "name": "theme", "description": "Muda o tema do terminal.", 
         "options": [
             { "option": "--name [theme-name]", "description": "Change the theme to the given theme name." },
-            { "option": "--list", "description": "List all the themes." }
+            { "option": "--list", "description": "List all the themes.\nEx: theme --name dark-sea" }
         ]
     },
     { "name": "connect", "description": "Conecte-se comigo.", 

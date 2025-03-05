@@ -155,11 +155,11 @@ export class Resume{
             <ul>
                 <li>
                     Foundations of Cybersecurity,  Janeiro 2025.
-                    <a href="https://coursera.org/share/3fb478b35ecc5c7e47601a0d2f9a1a40" target="_blank">[Certificado]</a>
+                    <a href="" target="_blank">[Certificado]</a>
                 </li>
                 <li>
-                   C1 English (Avançado, proficiente), Dezembro 2025.
-                    <a href="https://cert.efset.org/en/dyGAgA" target="_blank">[Certificado]</a>
+                     English (), Dezembro 2025.
+                    <a href="" target="_blank">[Certificado]</a>
                 </li>
             </ul>
         </div>`;
